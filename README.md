@@ -39,10 +39,11 @@ I start trying things out with the knowledge I already posess and then research 
 
 ### What I learned
 
-- How to implement the margin:auto; property on CSS to center a paragraph and a h1 element horizontallyt inside a div container.
+- How to implement the margin:auto; property on CSS to center a paragraph and a h1 element horizontally inside a div container.
 - It is preferable to use use the margin property instead of the padding property on pictures to which the border-radius property has been applied because with the padding property, the border-radius property is lost on the side(s) of the image to which the padding is applied.
 - Relative sizes like percentages are better than absolute sizes for a smoother navigation.
 - It is important to set the width and height of the body element in order for the flexbox properties to work properly.
+- It is a must to use absolute paths instead of relative paths. If you use relative paths, the links will not work and the layout will not load.
 
 ### Continued development
 
